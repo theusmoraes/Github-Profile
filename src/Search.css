@@ -1,0 +1,16 @@
+.search{
+    height: 40px;
+    font-size: 22px;
+    border-radius: 8px;
+    border: none;
+    outline: none;
+}
+input[type='text']{
+    padding-left: 10px;
+    
+}
+.searchButton{
+    height: 40px;
+    width: 60px;
+    margin-left: 10px;
+}
